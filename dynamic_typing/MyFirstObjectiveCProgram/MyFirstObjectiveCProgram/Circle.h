@@ -3,7 +3,7 @@
 //  MyFirstObjectiveCProgram
 //
 //  Created by Fabricio on 12/15/13.
-//  Copyright (c) 2013 treehouse. All rights reserved.
+//  Copyright (c) 2013 fmquaglia. All rights reserved.
 //
 
 
